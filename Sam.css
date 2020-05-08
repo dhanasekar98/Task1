@@ -1,0 +1,85 @@
+h1
+{
+	color: #333;
+	font :normal 30px sans-serif;
+}
+
+#match{
+	width: 100px;
+	height: 45px;
+	font-family: sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+	color: white;
+	padding: 8px;
+	background-color: #564CEE;
+	border: 20px;
+	box-shadow: transparent;
+	border-radius: 8px;
+}
+#normal
+{
+	width: 100px;
+	height: 45px;
+	font-family: sans-serif;
+	font-size: 16px;
+	font-weight: normal;
+	color: white;
+	padding: 8px;
+	background-color: #10F97D;
+	border: 20px;
+	border-color: #333;
+	box-shadow: transparent;
+	border-radius: 8px;
+
+}
+#name
+{
+	width: 50px;
+	height:25px;
+	border-radius: 5px;
+	font-family: sans-serif;
+	font-size: 15px;
+	font-weight: normal;
+	color: black;
+	padding: 8px;
+	background-color: yellow;
+	border: 30px;
+	border-color: #000000;
+	box-shadow: transparent;
+	text-align: center;
+
+}
+#name1
+{
+	width: 50px;
+	height:25px;
+	border-radius: 5px;
+	font-family: sans-serif;
+	font-size: 15px;
+	font-weight: normal;
+	color: black;
+	padding: 8px;
+	background-color: red;
+	border: 30px;
+	border-color: #000000;
+	box-shadow: transparent;
+	text-align: center;
+
+}
+#given
+{
+	font-family: sans-serif;
+	text-align: center;
+	text-shadow: initial;
+}
+.from table 
+{
+	border-top:  1px dotted;
+	border-bottom: 1px dotted;
+	background-color: #F1F3F2;
+}
+.from tbody
+{
+	border-top: 1px dotted;
+}
